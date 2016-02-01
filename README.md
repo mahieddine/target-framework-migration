@@ -1,5 +1,7 @@
 # Target Framework Migration
 
+for more info about the context read this article http://cherifmahieddine.com/2012/12/10/change-the-target-framework-for-all-projects-in-a-solution-visual-studio-2012/#comments
+
 Target Framework Migration Macro
 Change the Target Framework for all your .net projects (Visual Studio 2012)
 
