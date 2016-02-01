@@ -1,4 +1,4 @@
-# target-framework-migration
+# Target Framework Migration
 
 Target Framework Migration Macro
 Change the Target Framework for all your .net projects (Visual Studio 2012)
